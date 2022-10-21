@@ -1,0 +1,6 @@
+payload:
+  - 'android.googleapis.com'
+  - 'android.clients.google.com'
+  - 'play.googleapis.com'
+  - 'services.googleapis.cn'
+  - 'xn--ngstr-lra8j.com'
